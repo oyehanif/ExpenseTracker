@@ -47,6 +47,8 @@ Open in Android Studio, sync Gradle, and run.
 |:---:|:---:|:---:|
 | ![WhatsApp Image 2025-08-10 at 5 00 34 PM](https://github.com/user-attachments/assets/fdde5bab-d890-49d9-aa30-d6e1165f0335) | ![WhatsApp Image 2025-08-10 at 5 00 34 PM (1)](https://github.com/user-attachments/assets/1c8ea075-b649-4edc-b3c2-11460d802512) | ![WhatsApp Image 2025-08-10 at 5 00 34 PM (2)](https://github.com/user-attachments/assets/2eb6c0d4-c8b4-4f12-b20b-c1a19bba7b78) |
 
+## Build/APK 
+- You can find the apk build here : https://drive.google.com/file/d/1nmdQe1lKp8EUVjHvsDi5NDeGoxBsQx_6/view?usp=sharing
 
 ## 🚀 Bonus Features
 
